@@ -117,4 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACsAQAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAAFz
+        UkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABQUlEQVRYR8WW0RGC
+        MAxAuwwbuABzcG7BBP66hR/O4ihugQlnvQCPNkUvfrw775U2wTahKd2e019BGQnKSFBGgjISlMT1MaXh
+        PKXuJJPSFvXDRZ6DuSVQLpDAPQUVl4Pl5PJYJ7+9iaDMXOWNFkENnYxt5phEcBxAOXNfBiRGmtcISmXY
+        2esFZhuOglLpKSDxZRIoFXcCSsOhW4NSaUpAkSRonRooldGUlRctP1qrBMoZKakOgtTwll8GZabUB0r0
+        UsK0HoHS4ipHYJB/kNZbg3JN84F842lUKDfo9wAC1PCcB5TIkUPpaFIodzmQRG0bUBZpTOL3CSiOL+XM
+        4S0wb7lXTp4e4ekHKBUbYG+hUo/4/kKiyNvb61gvi+r16zNmAn6Q571NSEG5QRasXUg1ubEhcAZlJCgj
+        QRkJykhQhvGcXje2q1nW7jAPAAAAAElFTkSuQmCC
+</value>
+  </data>
 </root>
